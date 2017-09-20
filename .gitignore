@@ -3,5 +3,7 @@
 __pycache__/
 *.db
 .DS_Store
-venv/
+venv
 .vscode/
+log/emperor.log
+log/uwsgi.log
